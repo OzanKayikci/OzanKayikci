@@ -68,7 +68,7 @@
     <td valign="top" width="33%">
       <div align="center">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=ozankayikci&locale=en&count_private=true&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=ozankayikci&locale=en&count_private=true&hide_title=false&hide=ShaderLab,HLSL&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true"
           align="center"
         />
       </div>
