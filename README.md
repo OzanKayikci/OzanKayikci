@@ -58,15 +58,28 @@
 ## Github Stats  
 <table><tr><td valign="top" width="33%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ozankayikci&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-</td><td valign="top" width="33%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozankayikci&hide_border=true&layout=compact" align="right" /></div>
-
-</td><td valign="top" width="33%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ozankayikci&show_icons=true&count_private=true&hide_border=true" align="left" />
+<div align="left">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=ozankayikci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=true"
+          align="left"
+        />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <div align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=ozankayikci&locale=en&count_private=true&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true"
+          align="center"
+        />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <div align="right">
+        <img
+          src="https://streak-stats.demolab.com?user=ozankayikci&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
+          align="right"
+        />
+      </div>
 
 </td></tr></table>  
 
