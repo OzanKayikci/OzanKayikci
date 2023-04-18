@@ -57,10 +57,7 @@
 <table><tr><td valign="top" width="33%">
 
 <div align="left">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=ozankayikci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=true"
-          align="left"
-        />
+    ![Ozans's GitHub stats](https://github-readme-stats.vercel.app/api? username=ozankayikci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=true)
       </div>
     </td>
     <td valign="top" width="33%">
