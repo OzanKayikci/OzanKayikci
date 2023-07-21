@@ -11,11 +11,11 @@
   
 
 - 💻I was worked as mobile developer at SciMatic, fullstact developer(with .net razor page)  
-  
 
-- *<ins>📌 I am one of 2 developers of the Saymatik app, a crypo wallet that we developed with using solidity and React Native. [IOS](https://apps.apple.com/tr/app/saymatik/id6444104653?l=tr) | [Android](https://play.google.com/store/apps/details?id=com.scimatic.saymatik&hl=tr&gl=US)</ins>*  
+   - *<ins>📌 I am one of 2 developers of the Saymatik app, a crypo wallet that we developed with using solidity and React Native. [IOS](https://apps.apple.com/tr/app/saymatik/id6444104653?l=tr) | [Android](https://play.google.com/store/apps/details?id=com.scimatic.saymatik&hl=tr&gl=US)</ins>*  
 
--> ♾️  I decided to continue my career as an Android Developer after experiencing different fields
+
+- ♾️  I decided to continue my career as an Android Developer after experiencing different fields
 
 <br/>  
 
