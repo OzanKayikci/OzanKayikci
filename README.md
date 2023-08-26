@@ -4,13 +4,13 @@
 ### <div align="center">A passionate Software Developer from Turkey</div>  
   
 
-- 👨‍💻 I can describe myself as a mobile  developer who loves android and blockchain technology.  
+- 👨‍💻 I can describe myself as an Android developer who loves blockchain technology.  
   
 
 - 🌱 I’m currently learning Android, Kotlin,blockchain technologies, smart contracts(solidity)
   
 
-- 💻I was worked as mobile developer at SciMatic, fullstact developer(with .net razor page)  
+- 💻I was worked as mobile developer at SciMatic and fullstack developer as freelancer(with .net razor page)  
 
    - *<ins>📌 I am one of 2 developers of the Saymatik app, a crypo wallet that we developed with using solidity and React Native. [IOS](https://apps.apple.com/tr/app/saymatik/id6444104653?l=tr) | [Android](https://play.google.com/store/apps/details?id=com.scimatic.saymatik&hl=tr&gl=US)</ins>*  
 
