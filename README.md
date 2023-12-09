@@ -4,13 +4,13 @@
 ### <div align="center">A passionate Software Developer from Turkey</div>  
   
 
-- 👨‍💻 I can describe myself as an Android developer who loves blockchain technology.  
+- 👨‍💻 I can describe myself as an Android developer.  
   
 
-- 🌱 I’m currently learning Android, Kotlin,blockchain technologies, smart contracts(solidity)
-  
+- 🌱 I’m currently learning Android, Kotlin.
+  -   *<ins>📌 You can check my published apps in my Play Store account. [Play Store Link](https://play.google.com/store/apps/developer?id=Laivinieks) </ins>*
 
-- 💻I was worked as mobile developer at SciMatic and fullstack developer as freelancer(with .net razor page)  
+- 💻I was worked as mobile(react native) and smart contract(solidity) developer at SciMatic and fullstack developer as freelancer(with .net razor page)  
 
    - *<ins>📌 I am one of 2 developers of the Saymatik app, a crypo wallet that we developed with using solidity and React Native. [IOS](https://apps.apple.com/tr/app/saymatik/id6444104653?l=tr) | [Android](https://play.google.com/store/apps/details?id=com.scimatic.saymatik&hl=tr&gl=US)</ins>*  
 
@@ -60,8 +60,11 @@
 <a href="https://linkedin.com/in/ozan-kayikci0" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://medium.com/@ozankayikci" target="_blank">
+<img src=https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a> 
 <a href="https://instagram.com/ozan_kayikci" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=pink alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
