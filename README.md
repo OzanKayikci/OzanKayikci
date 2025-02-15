@@ -5,17 +5,7 @@
   
 
 - 👨‍💻 I can describe myself as an Android developer.  
-  
-
-- 🌱 I’m currently learning Android, Kotlin.
-  -   *<ins>📌 You can check my published apps in my Play Store account. [Play Store Link](https://play.google.com/store/apps/developer?id=Laivinieks) </ins>*
-
-- 💻I was worked as mobile(react native) and smart contract(solidity) developer at SciMatic and fullstack developer as freelancer(with .net razor page)  
-
-   - *<ins>📌 I am one of 2 developers of the Saymatik app, a crypo wallet that we developed with using solidity and React Native. [IOS](https://apps.apple.com/tr/app/saymatik/id6444104653?l=tr) | [Android](https://play.google.com/store/apps/details?id=com.scimatic.saymatik&hl=tr&gl=US)</ins>*  
-
-
-- ♾️  I decided to continue my career as an Android Developer after experiencing different fields
+- 🙌 I am a member of a team in a corporate company that develops projects using 100% Jetpack Compose and provides maintenance and update support for old projects written in Java.
 
 <br/>  
 
